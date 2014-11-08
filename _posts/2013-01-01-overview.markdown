@@ -7,8 +7,8 @@ title: 2013 Overview
 | Date        | Job           | Weight  | Who? |
 | -----------:| ------------- | -------:| ---- |
 |  8/2013 | Togliere mobile intorno alla caldaia | 1 | J |
-|  9/2013 | Nuovo impiano fogne | 10 | $$$$$ |
-|  9/2013 | Levare ulivo davanti a casa | 1 | $ |
+|  9/2013 | Nuovo impiano fogne |  | $$$$$ |
+|  9/2013 | Levare ulivo davanti a casa |  | $ |
 |  9/2013 | Levare cappa focolare | 2 | J |
 |  9/2013 | Installare cartongesso focolare cucina | 3 | J |
 |  9/2013 | Imbiancare dietro focolare | 1 | J |
@@ -32,7 +32,7 @@ title: 2013 Overview
 |   /2013 | Pulire striscia bosco confine Mandri | 5 | J |
 |   /2013 | Scavare fosso, bosco confine Mandri | 3 | J |
 | 11/2013 | Installare conduttura acque da tetto loggiato a fogne | 4 | J |
-|   /2013 | Togliere placca sotto contatore ENEL | 0 | $ |
+|   /2013 | Togliere placca sotto contatore ENEL |  | $ |
 |   /2013 | Spostare luci da bagno a camera |  | P |
 | 11/2013 | Attaccare ganci per biciclette | 1 | J |
 |   /2013 | Togliere porta fra ingresso e stanza sul giardino |  | J |
