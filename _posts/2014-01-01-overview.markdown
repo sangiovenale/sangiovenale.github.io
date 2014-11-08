@@ -1,0 +1,56 @@
+---
+title: 2014 Overview
+---
+
+# 2014
+
+| Date        | Job           | Weight  | Who? |
+| -----------:| ------------- | -------:| ---- |
+|  1/2014 | Rimuovere calcinacci, torretta | 2 | J |
+|  2/2014 | Riparazione pavimento, torretta | 4 | J |
+|  2/2014 | Sostituire scatole elettriche | 4 | J, P |
+|  2/2014 | Spostare pila | 1 | J, P |
+|  2/2014 | Stonacatura facciata | 4 | P |
+|  2/2014 | Potatura olive | 5 | J |
+|  3/2014 | Pinatare siepi | 3 | P |
+|  3/2014 | Potatura caco | 3 | P |
+|  3/2014 | Potatura pero | 3 | P |
+|3-9/2014 | Rifacimento fughe, facciata | 9 | P |
+|  4/2014 | Installare zanzariera, torretta | 4 | P, J |
+|  5/2014 | Realizzazione cuscini rossi | 4 | P |
+|4-7/2014 | Sostituzione pietre, facciata | 7 | J |
+|   /2014 | Potatura albero davanti finestra cucina | 2 | P |
+|  5/2014 | Zappare e preparare orto | 7 | P |
+|   /2014 | Sostituzione zanzariera, finestra in fondo alle scale | 2 | J |
+|  6/2014 | Installazione zanzariere |  | P |
+|  8/2014 | Installazione doppio vetro, finestra in fondo alle scale | 3 | J |
+|  9/2014 | Creare pollaio |  | P |
+|  9/2014 | Restaurare piccola botte | 4 | P |
+|   /2014 | Riverniciare lampadario, camera Elena |  | E |
+|   /2014 | Fioriera sulla strada |  | P |
+|  9/2014 | Levare termosifoni | 4 | J |
+|  9/2014 | Spostare tavolone da cucina a sala pranzo | 1 | J, P |
+|  9/2014 | Allargare porta d'ingresso e creare cornice nuova | 4 | J |
+| 10/2014 | Spostare gazebo | 1 | J |
+| 10/2014 | Liberare grondaia bloccata, tetto delle scale | 2 | J, P |
+| 10/2014 | Creare piazzalino in pietra | 8 | J |
+| 10/2014 | Collegare scolo piazzalino a fogne | 3 | J |
+| 10/2014 | Scivolo di cemento lungo la strada | 2 | J |
+| 10/2014 | Riverniciare mobilone, cucina |  | P |
+|   /2014 | Creare tenda sotto acquaio di petra |  | P |
+|   /2014 | Riverniciare scuri, lato Est |  | P |
+|   /2014 | Togliere scuro, bagno | 1 | P |
+|   /2014 | Togliere porta, sala pranzo | 1 | J |
+| 10/2014 | Ricollegare antenna TV | 1 | J |
+| 10/2014 | Restaurare cassa portalegna | 1 | P |
+| 11/2014 | Creare porta principale |  | $$ |
+| 11/2014 | Togliere vecchia porta blindata | 2 | J |
+| 11/2014 | Riverniciare finestra grande, cucina | 4 | P |
+
+# In corso
+
+| Date        | Job           | Weight  | Who? |
+| -----------:| ------------- | -------:| ---- |
+|   /2014 | Imbiancare cucina |  | P |
+|   /2014 | Riverniciare tavolo, cucina |  | P |
+|   /2014 | Installare sistema elettrico, giardino |  | J |
