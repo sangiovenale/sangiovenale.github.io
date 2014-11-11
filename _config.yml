@@ -1,8 +1,7 @@
 title: Lavori sulla casa a San Giovenale
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Lavori svolti nel rifacimento della nostra casa a San Giovenale.
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: " Lavori svolti nel rifacimento della nostra casa a San Giovenale."
+baseurl: ""
 url: "http://sangiovenale.github.io"
 timezone: Europe/Rome
 
