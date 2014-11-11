@@ -13,7 +13,7 @@ layout: default
 |  2/2014 | Spostare pila | 1 | J, P |
 |  2/2014 | Stonacatura facciata | 4 | P |
 |  2/2014 | Potatura olive | 5 | J |
-|  3/2014 | Pinatare siepi | 3 | P |
+|  3/2014 | Piantare siepi | 3 | P |
 |  3/2014 | Potatura caco | 3 | P |
 |  3/2014 | Potatura pero | 3 | P |
 |3-9/2014 | Rifacimento fughe, facciata | 9 | P |
