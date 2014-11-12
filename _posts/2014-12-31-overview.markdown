@@ -47,11 +47,11 @@ layout: default
 | 11/2014 | Creare porta principale |  | $$ |
 | 11/2014 | Togliere vecchia porta blindata | 2 | J |
 | 11/2014 | Riverniciare finestra grande, cucina | 4 | P |
+| 11/2014 | Riverniciare tavolo, cucina | 2 | P |
 
 # In corso
 
 | Date        | Job           | Weight  | Who? |
 | -----------:| ------------- | -------:| ---- |
 |   /2014 | Imbiancare cucina |  | P |
-|   /2014 | Riverniciare tavolo, cucina |  | P |
 |   /2014 | Installare sistema elettrico, giardino |  | J |
