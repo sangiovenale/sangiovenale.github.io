@@ -53,5 +53,5 @@ layout: default
 
 | Date        | Job           | Weight  | Who? |
 | -----------:| ------------- | -------:| ---- |
-| 123/2014 | Imbiancare cucina |  | P |
+|   /2014 | Imbiancare cucina |  | P |
 |   /2014 | Installare sistema elettrico, giardino |  | J |
