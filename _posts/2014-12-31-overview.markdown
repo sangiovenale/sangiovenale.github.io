@@ -48,6 +48,11 @@ layout: default
 | 11/2014 | Togliere vecchia porta blindata | 2 | J |
 | 11/2014 | Riverniciare finestra grande, cucina | 4 | P |
 | 11/2014 | Riverniciare tavolo, cucina | 2 | P |
+| 11/2014 | Impianto elettrico, giardino | 10 | J |
+| 11/2014 | Impianto elettrico, loggiato | 3 | J |
+| 11/2014 | Intonaco fine, cucina | 3 | J |
+| 12/2014 | Tubo passacavi loggiato-cancello | 3 | J |
+| 12/2014 | Canalina, lato nord gazebo | 1 | J |
 
 # In corso
 
@@ -55,4 +60,3 @@ layout: default
 | -----------:| ------------- | -------:| ---- |
 |   /2014 | Imbiancare cucina |  | P |
 |   /2014 | Stonacare e stuccare arco |  | P |
-|   /2014 | Installare sistema elettrico, giardino |  | J |
