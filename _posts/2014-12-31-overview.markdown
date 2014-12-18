@@ -53,6 +53,7 @@ layout: default
 | 11/2014 | Intonaco fine, cucina | 3 | J |
 | 12/2014 | Tubo passacavi loggiato-cancello | 3 | J |
 | 12/2014 | Canalina, lato nord gazebo | 1 | J |
+| 12/2014 | Incorniciato e attaccato specchione | 9 | P, J |
 
 # In corso
 
