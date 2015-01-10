@@ -61,5 +61,5 @@ layout: default
 | -----------:| ------------- | -------:| ---- |
 |   /2014 | Imbiancare cucina |  | P |
 |   /2014 | Arco ingresso |  | |
-    /2014 | Restaurare vecchie sedie cucina | P
+    /2014 | Restaurare vecchie sedie cucina | |P|
 
