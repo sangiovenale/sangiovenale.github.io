@@ -60,6 +60,6 @@ layout: default
 | Date        | Job           | Weight  | Who? |
 | -----------:| ------------- | -------:| ---- |
 |   /2014 | Imbiancare cucina |  | P |
-|   /2014 | Stonacare e stuccare arco |  | P |
- /2014 | Restaurare vecchie sedie cucina
- |  | P |
+|   /2014 | Stonacare e stuccare arco |  | |
+    /2014 | Restaurare vecchie sedie cucina   P
+
