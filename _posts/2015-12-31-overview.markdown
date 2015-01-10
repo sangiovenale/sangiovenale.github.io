@@ -1,0 +1,17 @@
+---
+title: "2015 Overview"
+layout: default
+---
+
+# 2014
+
+| Date        | Job           | Weight  | Who? |
+| -----------:| ------------- | -------:| ---- |
+
+# In corso
+
+| Date        | Job           | Weight  | Who? |
+| -----------:| ------------- | -------:| ---- |
+|   /2014 | Imbiancare cucina |  | P |
+|   /2014 | Arco ingresso |  | |
+|   /2014 | Restaurare vecchie sedie cucina | |P|

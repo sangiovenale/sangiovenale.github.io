@@ -54,12 +54,3 @@ layout: default
 | 12/2014 | Tubo passacavi loggiato-cancello | 3 | J |
 | 12/2014 | Canalina, lato nord gazebo | 1 | J |
 | 12/2014 | Incorniciato e attaccato specchione | 9 | P, J |
-
-# In corso
-
-| Date        | Job           | Weight  | Who? |
-| -----------:| ------------- | -------:| ---- |
-|   /2014 | Imbiancare cucina |  | P |
-|   /2014 | Arco ingresso |  | |
-    /2014 | Restaurare vecchie sedie cucina | |P|
-
