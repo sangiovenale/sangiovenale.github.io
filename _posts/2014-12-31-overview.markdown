@@ -52,5 +52,8 @@ layout: default
 | 11/2014 | Impianto elettrico, loggiato | 3 | J |
 | 11/2014 | Intonaco fine, cucina | 3 | J |
 | 12/2014 | Tubo passacavi loggiato-cancello | 3 | J |
-| 12/2014 | Canalina, lato nord gazebo | 1 | J |
+| 12/2014 | Canalina di drenaggio, lato nord gazebo | 1 | J |
 | 12/2014 | Incorniciato e attaccato specchione | 9 | P, J |
+| 12/2014 | Rete per chiudere uliveto | 2 | P, J |
+| 12/2014 | Sostituire luce, stanza sul giardino | 1 | J |
+| 12/2014 | Chiudere scatola elettrica, ingresso | 1 | J |
